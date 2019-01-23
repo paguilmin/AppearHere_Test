@@ -1,0 +1,8 @@
+# Jupyter notebooks specific
+**/.ipynb_checkpoints
+
+# temp files
+temp/
+
+# assignement
+Data Science Exercise.pdf
