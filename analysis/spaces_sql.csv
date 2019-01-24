@@ -1,0 +1,227 @@
+,id,city,space_type
+6,5241,New York,popup_shop
+59,3972,New York,popup_shop
+83,6341,Manchester,popup_shop
+137,5311,New York,private_event
+252,3265,London,popup_shop
+281,5620,New York,popup_shop
+283,1344,London,private_event
+325,6569,London ,popup_shop
+368,5088,London,gallery
+459,5563,London,popup_shop
+463,5562,London,popup_shop
+472,4912,London,popup_shop
+521,2893,Paris,popup_shop
+599,310,London,gallery
+636,383,London,popup_bar
+646,5011,Brooklyn,private_event
+711,6760,London,popup_shop
+741,327,London,popup_bar
+792,3592,London,popup_bar
+857,581,London,popup_shop
+1081,4351,New York,popup_shop
+1116,5892,Paris,popup_shop
+1149,2944,New York,popup_shop
+1182,3090,London,gallery
+1245,1925,Barking,popup_shop
+1251,5648,Paris,private_event
+1294,715,London,private_event
+1394,2986,London,popup_shop
+1499,4889,New York,popup_shop
+1581,4333,London,popup_shop
+1601,5454,London,popup_shop
+1805,3750,London,popup_shop
+1907,5268,Paris,popup_shop
+2056,3768,Paris,popup_shop
+2084,366,London,popup_bar
+2088,3330,London,popup_shop
+2114,6298,Brooklyn,popup_shop
+2156,5536,New York,private_event
+2194,5419,New York,gallery
+2308,5915,London ,popup_shop
+2456,1900,London,popup_shop
+2532,5844,Paris,popup_shop
+2567,5243,New York,popup_shop
+2581,1577,Brighton,popup_shop
+2675,5277,Brooklyn,popup_shop
+2702,5638,Paris,popup_shop
+2705,6434,London,popup_shop
+2846,4606,Paris,popup_shop
+2935,6086,London,unique
+3043,4983,New York,popup_shop
+3051,4402,Paris,popup_shop
+3104,2630,London,private_event
+3158,3839,London,popup_shop
+3195,4303,New York,popup_shop
+3265,2103,Brighton ,popup_shop
+3281,367,London,popup_shop
+3476,6941,London,popup_shop
+3552,2538,London ,private_event
+3610,238,London,unique
+3742,6524,Paris,popup_shop
+3777,6175,New York,popup_shop
+3877,4842,London,unique
+3957,4830,New York,popup_bar
+3961,6412,New York,popup_shop
+4020,4986,Paris,gallery
+4099,3840,London,popup_shop
+4147,4189,Paris,unique
+4180,6331,London,unique
+4187,6898,London,unique
+4250,6253,London,popup_shop
+4309,3043,London,popup_bar
+4316,2738,London,popup_shop
+4411,3936,London,sample_sale
+4437,6031,London ,popup_bar
+4442,1009,London,popup_bar
+4447,4439,London,popup_bar
+4599,2780,London,unique
+4678,4301,Leeds,popup_shop
+4694,5145,London,popup_shop
+4712,5953,Paris,popup_shop
+4713,960,London,gallery
+4805,5149,London,popup_shop
+4813,6935,London,popup_shop
+4969,6264,London,popup_bar
+4990,4085,New York,gallery
+5179,6864,London,popup_shop
+5390,4263,London,private_event
+5419,4663,Paris,popup_shop
+5462,4411,London,unique
+5542,6847,Paris,popup_shop
+5672,2575,London,private_event
+5924,6490,London,gallery
+6149,2220,London ,gallery
+6196,5048,London,unique
+6205,6018,Manchester,popup_shop
+6413,3601,Paris,private_event
+6733,5326,London ,private_event
+6817,2513,Paris,gallery
+7145,5502,New York,popup_shop
+7230,2219,London,private_event
+7244,3281,London,private_event
+7258,5160,Paris,popup_shop
+7284,1961,Birmingham,popup_shop
+7309,6491,London,popup_shop
+7380,5716,London,gallery
+7382,6279,Paris,popup_shop
+7566,2925,New York,gallery
+7624,2897,Aix-en-Provence,popup_shop
+7670,368,London,gallery
+7789,4607,London,popup_shop
+7807,2787,London,popup_shop
+7902,2073,London,gallery
+8086,5698,New York,popup_shop
+8521,6207,New York,private_event
+8556,5032,Paris,private_event
+8630,4643,London,popup_shop
+8982,4981,New York,gallery
+9047,6247,Paris,popup_shop
+9128,5344,Paris,unique
+9164,6377,New York,private_event
+9203,4473,York,popup_shop
+9214,5476,London ,popup_bar
+9226,5622,London,popup_bar
+9247,5790,London,popup_shop
+9316,1409,Paris,unique
+9382,2753,Paris,popup_shop
+9403,5765,London,popup_shop
+9488,6223,Paris,gallery
+9679,6108,Queens ,popup_shop
+9692,6350,Paris,gallery
+9747,232,London,unique
+9851,6807,London ,popup_shop
+9936,2288,Liverpool,popup_shop
+9983,2051,Paris,gallery
+10113,6267,Birmingham,unique
+10316,1764,London,popup_bar
+10397,3809,London,popup_shop
+10425,6631,Paris,sample_sale
+10584,5143,London,popup_shop
+10649,3250,Paris,private_event
+10686,4920,London ,popup_shop
+10865,6121,London,popup_bar
+11006,1059,London,gallery
+11224,5573,London,unique
+11266,6055,Paris,private_event
+11316,5803,London,gallery
+11350,6630,New York,private_event
+11353,2383,London ,gallery
+11387,5289,Paris,private_event
+11444,6909,London,popup_shop
+11541,6268,London,private_event
+11598,735,London,unique
+11918,2797,London,gallery
+11948,6940,London,popup_shop
+11963,6713,London,popup_shop
+12013,3275,London,popup_shop
+12099,5059,London,popup_shop
+12401,3091,London,gallery
+12507,369,London,popup_bar
+12542,5393,Paris,popup_shop
+12709,4688,New York,private_event
+12726,3641,Paris,private_event
+12745,67,London,private_event
+12819,5666,Marseille,private_event
+12825,5728,Paris,private_event
+12968,4336,London,private_event
+12977,6815,London,popup_shop
+12980,6816,London,popup_shop
+13189,5565,London,gallery
+13230,61,London,popup_shop
+13506,5142,New York,popup_shop
+13556,6246,Paris,private_event
+13665,4421,Paris,popup_shop
+13701,4277,New York,popup_shop
+14149,6054,Paris,popup_shop
+14229,5488,Paris,popup_shop
+14739,1312,London,gallery
+14780,2053,London,unique
+14820,2901,London,popup_shop
+14830,5947,Paris,private_event
+15178,6023,New york,popup_shop
+15203,5858,London,popup_shop
+15383,4982,London,popup_shop
+15494,5946,London,popup_shop
+15591,3290,Paris,popup_shop
+15645,200,London,private_event
+15995,4690, Glasgow ,popup_shop
+16171,1626,London,popup_bar
+16266,6575,London ,popup_shop
+16322,1141,Manchester ,popup_shop
+16404,4190,New York,private_event
+16434,470,Liverpool,popup_shop
+16471,2526,Paris,popup_shop
+16662,3372,London ,popup_shop
+17047,1374,Paris,private_event
+17233,759,London,popup_shop
+18002,5585,New York,private_event
+18009,5977,Paris,popup_shop
+18057,6050,London,popup_shop
+18206,6600,Paris,popup_shop
+18222,4866,Paris,popup_shop
+18470,5695,London,popup_shop
+18576,4548,Marseille,popup_shop
+18611,6239,London,popup_shop
+18616,6038,London,popup_shop
+18799,5672,Paris,popup_shop
+19056,6551,London,popup_shop
+19066,5237,London,popup_shop
+19183,5929,London,popup_shop
+19266,6780,London,popup_shop
+19326,3612,London,popup_shop
+19359,6798,London ,popup_shop
+19371,6770, London ,popup_shop
+19660,5286,Brooklyn ,sample_sale
+19955,1033,London,popup_shop
+20063,1771,Paris,popup_shop
+20143,4691,Glasgow,gallery
+20332,5363,Paris,popup_shop
+20419,4438,London,popup_shop
+20610,6704,Paris,popup_shop
+20688,5511,Paris,private_event
+20720,6360,London,gallery
+20787,3876,London,popup_shop
+20878,2685,London,private_event
+21008,1388,Paris,gallery
+21019,4276,New York,popup_shop
